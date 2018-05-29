@@ -4,5 +4,5 @@ A place to consolidate some simple EarSketch demos I made in the event that I wi
 
 ## Todo:
 - [X] Make Repo
-- [ ] Add some recorded sounds of my own instruments (alto/tenor sax, oboe, English Horn, etc) and use in scripts
-- [ ] Use to teach applications of computer languages (python &/or JS) at a library teen workshop
+- [ ] Add some recorded sounds of my own instruments (alto/tenor sax, oboe, English Horn, etc) to use in sketches
+- [ ] Use to teach applications of computer languages (python &/or JS) at library teen workshop
