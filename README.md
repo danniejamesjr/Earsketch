@@ -7,5 +7,8 @@ A place to consolidate some simple EarSketch demos I made in the event that I wi
 - [ ] Add some recorded sounds of my own instruments (alto/tenor sax, oboe, English Horn, etc) to use in sketches
 - [ ] Use to teach applications of computer languages (python &/or JS) at library teen workshop
 
-## [Link to the EarSketch IDE]("https://earsketch.gatech.edu/earsketch2/")
-## [Link to the documentation]("https://earsketch.gatech.edu/doc/ref/earsketch.html")
+## Links:
+
+[Link to the EarSketch IDE]("https://earsketch.gatech.edu/earsketch2/")
+
+[Link to the documentation]("https://earsketch.gatech.edu/doc/ref/earsketch.html")
