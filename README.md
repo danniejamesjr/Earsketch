@@ -9,6 +9,6 @@ A place to consolidate some simple EarSketch demos I made in the event that I wi
 
 ## Links:
 
-[Link to the EarSketch IDE]("https://earsketch.gatech.edu/earsketch2/")
+*[Link to the EarSketch IDE](https://earsketch.gatech.edu/earsketch2/)*
 
-[Link to the documentation]("https://earsketch.gatech.edu/doc/ref/earsketch.html")
+*[Link to the documentation](https://earsketch.gatech.edu/doc/ref/earsketch.html)*
